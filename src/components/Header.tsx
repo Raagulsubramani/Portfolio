@@ -122,7 +122,7 @@ const Header: React.FC = () => {
               </motion.button>
             ))}
             <motion.a
-              href="https://github.com/raagul123"
+              href="https://github.com/Raagulsubramani"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-800 dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
