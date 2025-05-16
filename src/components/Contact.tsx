@@ -98,7 +98,7 @@ const Contact: React.FC = () => {
             </div>
 
             <motion.a
-              href="/resume.pdf"
+              href="/resume-raagul.pdf"
               download
               className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-indigo-700 text-white font-medium rounded-lg shadow-md hover:shadow-lg mt-8"
               whileHover={{ scale: 1.03 }}
